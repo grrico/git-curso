@@ -1,0 +1,2 @@
+Git es un sistema de control de versiones que permite a los desarrolladores administrar el código fuente de sus proyectos. 
+Es una herramienta fundamental para el desarrollo de software. 
